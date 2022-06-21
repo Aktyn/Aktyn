@@ -6,26 +6,22 @@
 ---
 
 <h1 align="center">Websites</h1>
-<p style="display: flex; overflow-x: auto; height: 320px;">
+<p align="center">
   <img src='img/websites.svg' />
 </p>
 
 ---
 
 <h1 align="center">Web and electron applications</h1>
-<p style="display: flex; overflow-x: auto; height: 320px;">
+<p align="center">
   <img src='img/webapps.svg' />
 </p>
 
 ---
 
 <h1 align="center">Graphics</h1>
-<p style="display: flex; overflow-x: auto; height: 320px;">
+<p align="center">
   <img src='img/graphics.svg' />
-  <!-- <img src='img/fafik_2.webp' />
-  <img src='img/old_ball.webp' />
-  <img src='img/psyduck.webp' />
-  <img src='img/cat_sorcerer.webp' /> -->
 </p>
 
 ---
