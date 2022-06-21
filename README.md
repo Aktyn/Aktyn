@@ -43,8 +43,8 @@
   <img src="https://komarev.com/ghpvc/?username=aktyn&label=Profile%20views&color=0e75b6&style=flat" alt="aktyn" /> 
 </p>
 
-<p style="display: flex; justify-content: center; flex-wrap: wrap; gap: 16px;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aktyn&show_icons=true&locale=en&layout=compact" alt="aktyn" />
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aktyn&show_icons=true&locale=en&layout=compact" alt="aktyn" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aktyn&show_icons=true&locale=en" alt="aktyn" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aktyn&" alt="aktyn" />
 </p>
