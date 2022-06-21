@@ -1,12 +1,6 @@
 <h1 align="center">Games</h1>
-<p style="display: flex; overflow-x: auto; height: 320px;">
-  <img src='img/zerogball_bg.png' />
-  <img src='img/zerog-ball.png' />
-  <img src='img/berta-snakes.png' />
-  <img src='img/snake.png' />
-  <img src='img/tetris.png' />
-  <img src='img/kulka_5.jpg' />
-  <img src='img/astro_kulka_5.jpg' />
+<p align="center">
+  <img src='img/games.svg' />
 </p>
 
 ---
