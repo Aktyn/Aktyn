@@ -8,7 +8,7 @@
 					}
 
 					to {
-						transform: translateX(calc(-100% + 640px));
+						transform: translateX(calc(-640px - 640px - 569px - 615px - 166px - 569px - 548px + 100%));
 					}
 				}
 
@@ -19,12 +19,12 @@
 				}
 
 				.container>.scroller {
-					display: inline-flex;
+					display: flex;
 					flex-direction: row;
 					overflow: visible;
-					width: auto;
+					width: 100%;
 					height: 320px;
-					animation: slide 16s 1s ease-in-out infinite alternate;
+					animation: slide 15s 1s ease-in-out infinite alternate;
 				}
 
 				.scroller>img {
