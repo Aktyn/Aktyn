@@ -32,14 +32,18 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aktyn&show_icons=true&locale=en&layout=compact" alt="aktyn" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aktyn&show_icons=true&locale=en" alt="aktyn" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aktyn&" alt="aktyn" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aktyn&show_icons=true&locale=en&layout=compact&theme=onedark&hide_border=true&background=transparent" alt="aktyn" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aktyn&show_icons=true&locale=en&theme=onedark&hide_border=true&background=transparent" alt="aktyn" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aktyn&theme=onedark&hide_border=true&background=transparent" alt="aktyn" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aktyn" alt="aktyn" />
+    <img src="https://github-profile-trophy.vercel.app/?username=aktyn&theme=chalk&no-bg=true&no-frame=true&margin-w=8&margin-h=8&column=4" alt="aktyn" />
   </a>
 </p>
 
