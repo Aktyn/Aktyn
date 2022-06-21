@@ -30,10 +30,10 @@
 
 <h1 align="center">Graphics</h1>
 <p style="display: flex; overflow-x: auto; height: 320px;">
-  <img src='img/fafik_2.png' />
-  <img src='img/old_ball.png' />
-  <img src='img/psyduck.png' />
-  <img src='img/cat_sorcerer.png' />
+  <img src='img/fafik_2.webp' />
+  <img src='img/old_ball.webp' />
+  <img src='img/psyduck.webp' />
+  <img src='img/cat_sorcerer.webp' />
 </p>
 
 ---
