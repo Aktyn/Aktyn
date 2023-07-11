@@ -26,6 +26,17 @@
 
 ---
 
+<h1 align="center">Some of my smaller projects hosted on glitch</h1>
+[Ten Tac Toe]([https://www.google.com](https://summer-jet-parallelogram.glitch.me/))
+[ZeroG-Ball](https://cut-dune-syrup.glitch.me/)
+[Snake](https://flame-horn-frog.glitch.me/)
+[Particles Life](https://amused-guiltless-clave.glitch.me/)
+[Tetris Widget](https://suave-peppered-scarecrow.glitch.me/)
+[Avoid Lines](https://silicon-valiant-mushroom.glitch.me/)
+[Project Paradise](https://helix-cosmic-poison.glitch.me/)
+
+---
+
 <h1 align="center">Some statistics</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aktyn&label=Profile%20views&color=0e75b6&style=flat" alt="aktyn" /> 
